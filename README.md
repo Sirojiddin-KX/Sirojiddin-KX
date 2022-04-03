@@ -21,7 +21,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" style="padding-right:10px;" />]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="padding-right:10px;" />]
 
 <br />
 <br />
