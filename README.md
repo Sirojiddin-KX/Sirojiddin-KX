@@ -1,34 +1,30 @@
-# Hi there, I'm Sirojiddin! 👋 
+<h1 align="center">Hi 👋, I'm Sirojiddin</h1>
+<h3 align="center">Hi, I'm Sirojiddin Khomidov, a passionate Backend developer and Computer Scientist student from Uzbekistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirojiddin-kx&label=Profile%20views&color=0e75b6&style=flat" alt="sirojiddin-kx" /> </p>
 
-## Hi, I'm Sirojiddin Khomidov, a passionate Backend developer and Computer Scientist student from Uzbekistan.
+- 🔭 I’m currently working on **HRMS project for local confectionery**
 
-- 🔭 I'm currently working on HRMS project for local confectionery
-- 🌱 I’m currently learning Apache Kafka, Docker, Microservices
-- 🥅 2022 Goals: Learn more about Test-driven development and Event-Driven Architecture and Algorithms
-- ⚡ Fun fact: I love to play video games and reading books
+- 🌱 I’m currently learning **Apache Kafka, Docker, Microservices**
 
+- 💬 Ask me about **Golang, SQL/NoSQL**
 
-### Connect with me:
+- 📫 How to reach me **khomidovsirojiddin@gmail.com**
 
+- ⚡ Fun fact **I love to play video games and reading**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sirojiddin-khomidov-89288a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirojiddin-khomidov-89288a200" height="30" width="40" /></a>
+<a href="https://instagram.com/sirojiddin.khomidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirojiddin.khomidov" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khomidovsirojid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khomidovsirojid1" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirojiddin-kx&show_icons=true&locale=en&layout=compact" alt="sirojiddin-kx" /></p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" style="padding-right:10px;" />]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirojiddin-kx&show_icons=true&locale=en" alt="sirojiddin-kx" /></p>
 
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Sirojiddin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sirojiddin-KX&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirojiddin-kx&" alt="sirojiddin-kx" /></p>
