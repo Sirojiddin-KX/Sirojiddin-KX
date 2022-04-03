@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on HRMS project for local confectionery
 - 🌱 I’m currently learning Apache Kafka, Docker, Microservices
 - 🥅 2022 Goals: Learn more about Test-driven development and Event-Driven Architecture and Algorithms
-- ⚡ Fun fact: I love to play video games and reading
+- ⚡ Fun fact: I love to play video games and reading books
 
 
 ### Connect with me:
