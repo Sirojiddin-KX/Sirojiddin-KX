@@ -11,11 +11,7 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://https://www.linkedin.com/in/sirojiddin-khomidov-89288a200/)
 
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://https://www.instagram.com/sirojiddin.khomidov/)
 
 
 ### Languages and Tools:
